@@ -8,5 +8,5 @@ Training the models
 * Bidirectional RNN
 * Custom Model (Bidirectional + Encoder Decoder)
 
-####Note: This module is executed on Kaggle as the GPU provided by it speeds up the training process
+#### Note: This module is executed on Kaggle as the GPU provided by it speeds up the training process
 [Click Here](https://www.kaggle.com/rajvardhan1999/transliterator-module-2) to view the Kaggle Notebook
