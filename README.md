@@ -1,8 +1,8 @@
 # Natural Language Processing
-##### J Component (A2 + TA2)
+#### J Component (A2 + TA2)
 
 ## Project Title 
-##### Transliterator: Recurrent Neural Network For Machine Translation
+#### Transliterator: Recurrent Neural Network For Machine Translation
 
 ## Team Members
 * Samridhi Murarka 17BCE2038
