@@ -3,8 +3,8 @@ Training the models
 
 ## 5 Different Models are trained
 * Simple RNN
-* Embedding
-* Encoder- Decoder
+* Embedding Model
+* Encoder- Decoder Model
 * Bidirectional RNN
 * Custom Model (Bidirectional + Encoder Decoder)
 
